@@ -1,2 +1,2 @@
-# PRACTICA3
-Tablas e Imágenes en HTML
+# Practica3_html
+Archivos iniciales para practicar el uso de github
